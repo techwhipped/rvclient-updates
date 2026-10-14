@@ -22,9 +22,6 @@ rVclient is coming to Linux: its own Linux launcher - the same pages, look and a
 launcher - and a one-file installer that sets up Proton (no Steam needed) next to **your own copy** of the
 game. It is being tested now; the release is announced in the RVClient Discord.
 
-Each release carries the Linux launcher as `rvclient-launcher-linux.tar.gz`, next to the Windows files. The
-Linux launcher updates itself from it, the same way the Windows launcher does.
-
 ## Support
 
 Questions and bug reports: the RVClient Discord.
