@@ -22,6 +22,10 @@ rVclient is coming to Linux: its own Linux launcher - the same pages, look and a
 launcher - and a one-file installer that sets up Proton (no Steam needed) next to **your own copy** of the
 game. It is being tested now; the release is announced in the RVClient Discord.
 
+## Help from an AI agent
+
+Using an AI agent (Claude Code, Codex, Cursor...)? Give it [`AI-AGENT-SETUP.md`](AI-AGENT-SETUP.md) - it helps you install rVclient and read the logs when something goes wrong.
+
 ## Support
 
 Questions and bug reports: the RVClient Discord.
